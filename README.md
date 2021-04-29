@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there is tinyRipple...👋
 
 <!--
 **tinyRipple/tinyRipple** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🔭 目前就读于浙江工业大学数据科学与大数据技术专业
+- 🌱 目前秃头刷 LeetCode 中
+- 👯 接触数据挖掘、机器学习
+- 🤔 会一点点点的 Hadoop 和 Spark\
+- 😄 会一点点点的前端
+- 💬 微信联系我：zhengdonghui0120
+- 📫 Email：zheng.dong.hui@foxmail.com
