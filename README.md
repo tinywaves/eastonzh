@@ -16,10 +16,11 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 目前就读于浙江工业大学数据科学与大数据技术专业
-- 🌱 目前秃头刷 LeetCode 中
-- 😄 自学前端-ing
-- 👯 接触数据挖掘、机器学习
-- 🤔 会一点点点的 Hadoop 和 Spark
-- ⚡ 个人网站：www.zhengdh.top
+- 🌱 秃头刷 LeetCode 中，接触数据挖掘、机器学习，会一点点的 Hadoop 和 Spark
+- 😀 热爱开源 热爱 Coding
+- ✨ 希望能成为一名足够优秀的前端程序员！
+- 💬 享受生活 享受当下
+- ⚡ 欢迎来访问我的[个人网站](www.zhengdh.top)
 - 💬 微信联系我：zhengdonghui0120
 - 📫 Email：zheng.dong.hui@foxmail.com
+<img src="https://github-readme-stats.vercel.app/api?username=tinyRipple&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true"/>
