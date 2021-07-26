@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 目前就读于浙江工业大学数据科学与大数据技术专业
-- 🌱 秃头刷 LeetCode 中，接触数据挖掘、机器学习，会一点点的 Hadoop 和 Spark
+- 🌱 秃头刷 LeetCode 中，学习前端，接触数据挖掘、机器学习，会一点点的 Hadoop 和 Spark
 - 😀 热爱开源 热爱 Coding
 - 😄 享受生活 享受当下
 - ✨ 希望能成为一名足够优秀的前端程序员！
