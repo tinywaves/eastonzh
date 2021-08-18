@@ -13,12 +13,12 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+- 😀 热爱开源 热爱 Coding
+- 😄 享受生活 享受当下
 -->
 
 - 🔭 目前就读于浙江工业大学数据科学与大数据技术专业
 - 🌱 秃头刷LeetCode中，学习前端，~~接触数据挖掘、机器学习~~，会一点的Hadoop和~~Spark~~
-<!--- 😀 热爱开源 热爱 Coding-->
-<!--- 😄 享受生活 享受当下-->
 - ✨ 希望能成为一名优秀的前端开发者
 - ⚡ [![PersonalWebsite](https://img.shields.io/badge/PersonalWebsite-http%3A%2F%2Fzhengdh.top%2F-DB7D74)](http://zhengdh.top/)
 - 💬 ![WeChat](https://img.shields.io/badge/WeChat-zhengdonghui0120-1AAD19)
