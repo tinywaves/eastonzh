@@ -23,4 +23,11 @@ Here are some ideas to get you started:
 - ⚡ [![PersonalWebsite](https://img.shields.io/badge/PersonalWebsite-http%3A%2F%2Fzhengdh.top%2F-DB7D74)](http://zhengdh.top/)
 - 💬 ![WeChat](https://img.shields.io/badge/WeChat-zhengdonghui0120-1AAD19)
 - 📫 [![E-mail](https://img.shields.io/badge/E--mail-zheng.dong.hui%40foxmail.com-orange)](mailto:zheng.dong.hui@foxmail.com)
-<img src="https://github-readme-stats.vercel.app/api?username=tinyRipple&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true"/>
+<div align="center">
+  <a href="https://github.com/tinyRipple">
+    <img align="left" src="https://github-readme-stats.vercel.app/api?username=tinyRipple&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true"/>
+  </a>
+  <a href="https://github.com/tinyRipple">
+    <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tinyRipple&layout=compact&show_icons=true&include_all_commits=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&card_width=230"/>
+  </a>
+</div>
