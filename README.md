@@ -23,5 +23,6 @@ Here are some ideas to get you started:
 - ⚡ [![PersonalWebsite](https://img.shields.io/badge/PersonalWebsite-http%3A%2F%2Fzhengdh.top%2F-DB7D74)](http://zhengdh.top/)
 - 💬 ![WeChat](https://img.shields.io/badge/WeChat-zhengdonghui0120-1AAD19)
 - 📫 [![E-mail](https://img.shields.io/badge/E--mail-zheng.dong.hui%40foxmail.com-orange)](mailto:zheng.dong.hui@foxmail.com)
-
+<!--
 [![](https://github-readme-stats.vercel.app/api?username=tinyRipple&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true")](https://github.com/tinyRipple)
+-->
