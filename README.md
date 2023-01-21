@@ -1,5 +1,5 @@
 <p align="center">
   <samp>
-    <span>isdhzh@gmail.com</span>
+    <span>isdhzh@outlook.com</span>
   </samp>
 </p>
